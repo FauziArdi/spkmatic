@@ -9,7 +9,7 @@
 @include('layouts.aside')
 <div class="col-md-9">
     <!-- <div class="jumbotron">
-        <p>Selamat datang  di <strong>SISTEM PAKAR PENYAKIT PADI</strong>, untuk memulai konsultasi silahkan klik tombol dibawah ini :</p> 
+        <p>Selamat datang  di <strong>SISTEM PAKAR MOTOR MATIC</strong>, untuk memulai konsultasi silahkan klik tombol dibawah ini :</p> 
         <p><a href="{{ route('pasienForm') }}" class="btn btn-primary">Konsultasi</a></p>
     </div> -->
     <div class="panel panel-default">
@@ -21,18 +21,17 @@
     			<div class="col-md-12">
     				<label><strong>Identitas Pembuat : </strong></label>
     			</div>
-    			<div class="col-md-2">Nama</div><div class="col-md-9">: Caesar Ali Lamondo</div>
-    			<div class="col-md-2">Stambuk</div><div class="col-md-9">: 14.1401.477</div>
-    			<div class="col-md-2">Kelas</div><div class="col-md-9">: CK-14</div>
+    			<div class="col-md-2">Nama</div><div class="col-md-9">: SPKMATIC</div>
+    			<div class="col-md-2">Kelas</div><div class="col-md-9">: SISTEMPAKAR</div>
     			<div class="col-md-2">Jurusan</div><div class="col-md-9">: Teknik Informatika</div>
     			<div class="col-md-2">Fakultas</div><div class="col-md-9">: Ilmu Komputer</div>
-    			<div class="col-md-2">Universitas</div><div class="col-md-9">: Universitas Indonesia Timur</div>
+    			<div class="col-md-2">Universitas</div><div class="col-md-9">: Universitas Narotama</div>
     		</div>
     		<div class="row">
 	    		<hr>
     			<div class="col-md-12">
 		    		<label><strong>Tujuan Pembuatan :</strong></label>
-		    		<p>Aplikasi ini dibuat sebagai salah satu tugas project aplikasi sistem pakar, untuk memenuhi tugas individu dalam matakuliah <strong>Expert Sistem</strong>.</p>	
+		    		<p>Tujuan sistem pakar sepeda motor matic adalah memberikan diagnosa dan solusi perawatan atau perbaikan yang cepat, akurat, dan efisien bagi pemilik atau teknisi sepeda motor matic. <strong>Expert Sistem</strong>.</p>	
     			</div>
     		</div>
     		<div class="row">
